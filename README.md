@@ -24,7 +24,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## Projects
 
-### [ProjectName](https://github.com/yourusername/ProjectName)
+### [Home Automation](https://github.com/bobby-bash/home_automation)
 Description of the project. It includes key features and technologies used.
 
 ### [AnotherProject](https://github.com/yourusername/AnotherProject)
@@ -38,8 +38,6 @@ Description of another project. It includes key features and technologies used.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sridhar-r-/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/SridharMedia)
-
-
 
 <!--
 **bobby-bash/bobby-bash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
