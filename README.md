@@ -4,7 +4,7 @@
 
 I'm a passionate software developer with a keen interest in open-source projects and web development. I love to learn new technologies and apply them in my projects.
 
-- 🔭 I’m currently working on [ProjectName](https://github.com/Kalirajm01/slack_bot)
+- 🔭 I’m currently working on [Slack Bot using GenAI for Expense Management](https://github.com/Kalirajm01/slack_bot)
 - 🌱 I’m currently learning Python and Java Script
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with advanced JavaScript patterns
