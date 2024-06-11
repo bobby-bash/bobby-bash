@@ -32,7 +32,7 @@ Description of another project. It includes key features and technologies used.
 
 ## GitHub Stats
 
-![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobby-bash&show_icons=true&theme=radical)
+![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobby-bash&show_icons=true&count_private=true&include_all_commits=true)
 
 ## Connect with Me
 
