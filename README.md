@@ -46,12 +46,14 @@ Description of another project. It includes key features and technologies used.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobby-bash&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+
+<!--
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sridhar-r-/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/SridharMedia)
 
-<!--
+
 **bobby-bash/bobby-bash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
