@@ -36,10 +36,14 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## Projects
 ### [Home Automation](https://github.com/bobby-bash/home_automation)
-Description of the project. It includes key features and technologies used.
+It's a Home Automation System, which has the following features
+  - Mobile App control
+  - Voice control (Alexa, Google Home)
+  - Hand Gesture COntrol
+  - Web protol control
 
-### [AnotherProject](https://github.com/yourusername/AnotherProject)
-Description of another project. It includes key features and technologies used.
+### [Alumni Application](https://github.com/Kalirajm01/alumni-application)
+It's an application developed to connect the alumni and keep then engaged with the college.
 
 <hr>
 
