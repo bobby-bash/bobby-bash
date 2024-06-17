@@ -1,6 +1,11 @@
 # Hi there, I'm Sridhar! 👋
 
-## About Me
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bobby-bash/count.svg" />
+</p>
+
+## 👨🏻‍💻 About Me
 
 I'm a passionate software developer with a keen interest in open-source projects and web development. I love to learn new technologies and apply them in my projects.
 
@@ -9,8 +14,12 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with advanced JavaScript patterns
 - 💬 Ask me about C, C++, Linux, Java, DSA, Python and REST APIs
-- 📫 How to reach me: [Email](mailto:d22z701@psgitech.ac.in)
 - ⚡ Fun fact: I enjoy playing CR, COC and hiking
+
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+
+<img src="https://img.shields.io/badge/d22z701@psgitech.ac.in-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="d22z701@psgitech.ac.in">   <a  href="https://www.instagram.com/bobby0bash/"><img src="https://img.shields.io/badge/@bobby0bash-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sridhar-r-/"><img src="https://img.shields.io/badge/Sridhar Ravi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<hr>
 
 ## Skills
 
@@ -30,10 +39,13 @@ Description of the project. It includes key features and technologies used.
 ### [AnotherProject](https://github.com/yourusername/AnotherProject)
 Description of another project. It includes key features and technologies used.
 
-## GitHub Stats
-
-![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobby-bash&show_icons=true&count_private=true&include_all_commits=true)
-
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bobby-bash&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobby-bash&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sridhar-r-/)
