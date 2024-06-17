@@ -45,7 +45,7 @@ Description of another project. It includes key features and technologies used.
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/bobby-bash">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bobby-bash&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobby-bash&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
