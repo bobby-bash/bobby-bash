@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bobby-bash/count.svg" />
 </p>
-
+<hr>
 ## 👨🏻‍💻 About Me
 
 I'm a passionate software developer with a keen interest in open-source projects and web development. I love to learn new technologies and apply them in my projects.
@@ -15,6 +15,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🤔 I’m looking for help with advanced JavaScript patterns
 - 💬 Ask me about C, C++, Linux, Java, DSA, Python and REST APIs
 - ⚡ Fun fact: I enjoy playing CR, COC and hiking
+<hr>
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
@@ -31,6 +32,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 
+<hr>
+
 ## Projects
 
 ### [Home Automation](https://github.com/bobby-bash/home_automation)
@@ -46,6 +49,8 @@ Description of another project. It includes key features and technologies used.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobby-bash&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+
+<hr>
 
 <!--
 ## Connect with Me
