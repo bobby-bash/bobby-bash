@@ -20,7 +20,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## How to reach me:
 <a href="mailto:d22z701@psgitech.ac.in?subject=Hola%20Sidhar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a  href="https://www.instagram.com/bobby0bash/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/sridhar-r-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <hr>
 
